@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+* {
+	text-align: center;
+	background-color: #f8f8f8;
+}
+
+.book-library {
+	background-color:#ffffff;
+	margin: 20px;
+}
+
+.book {
+	margin: 20px;
+}
+
+.author {
+	color: #777777;
+}
+button {
+	background-color: #2ecc71;
+	width: 100%;
+	border: none;
+}
